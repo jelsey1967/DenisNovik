@@ -316,7 +316,7 @@ body.lock {
 .main__image {
   width: 100%;
   height: calc(428px - 41 * ((100vw - 320px) / (1440 - 320)));
-  background-image: url(/img/1.png);
+  background-image: url("../img/1.png");
   background-position: center;
   background-repeat: no-repeat;
 }
